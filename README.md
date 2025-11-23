@@ -1,7 +1,7 @@
 ## Hi there, I'm nordicalls 👋
 A developer & designer who likes tinkering around with things I shouldn't.
 
-**🔗 My Links**
+**You can find me here...**
 - [Quick Links](https://feds.lol/fweah)
 - [Discord](https://discord.com/users/817410231088578610)
 <!--
