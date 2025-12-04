@@ -2,9 +2,9 @@
 
 ```csharp
 github.com/nvcls
-dc   $  @nvcls.cc
+dc   $  @nordically + @track.ed
 web  $  wip
-rblx $  @nvcls (wip)
+rblx $  @04Fuz
 ```
 &zwnj; 
 &zwnj; 
