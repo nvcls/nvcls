@@ -3,7 +3,6 @@
 ```csharp
 github.com/nvcls
 dc   $  @nordically + @track.ed
-web  $  wip
 rblx $  @04Fuz
 ```
 &zwnj; 
